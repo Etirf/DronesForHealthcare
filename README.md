@@ -15,10 +15,10 @@ zkserver
 ./bin/windows/kafka-topics.bat --create --bootstrap-server localhost:9092 --replication-factor 1 --partitions 5 --topic drones-filtered
 
 3)Start
--producer
--alertStream
--consumer
--sparkAnalysis
+- producer
+- alertStream
+- consumer
+- sparkAnalysis
 
 ----
 
