@@ -33,8 +33,8 @@ Group project by:
   - consumer
   - sparkAnalysis
 
-- For the analysis
-  - Après sparkQueries
+- For the analysis (afterwards)
+  - sparkQueries
 
 4) Structure and how the project works
 
