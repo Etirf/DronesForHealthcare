@@ -44,13 +44,13 @@ Group project:
 - They are consumed by "alertStream" (KafkaStream) and they produce drones in the filtered-drones topic (contains drones that are low on battery or that are offline)
 - filtered-drones are consumed by "consumer" that sends an email (alert) and prints the drones that need to be alarmed. You have to configure your own email account in order to make it work (using gmail api keys), don't forget to change it in the code!
 - sparkAnalysis transform the drones from the kafka stream to json files (continuously)
-- sparkQueries does all the queries on the drones and show the statistics
+- sparkQueries does all the queries on the drones and shows the statistics
 
 
 ## Notes -
 1) Check the sbt file to check the validity of the dependencies
 2) You can change the different paths used if there is an access issue.
-3) This project was developped under windows 10 OS
+3) This project was developed under windows 10 OS
 
 
 ### DEBUG
