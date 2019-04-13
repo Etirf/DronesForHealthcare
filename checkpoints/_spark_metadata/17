@@ -1,0 +1,5 @@
+v1
+{"path":"file:///C:/Users/etirf/Desktop/Scala/DFH/checkpoints/part-00000-5f461707-fc55-421d-b278-2c1503603354-c000.json","size":601,"isDir":false,"modificationTime":1555178340343,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///C:/Users/etirf/Desktop/Scala/DFH/checkpoints/part-00001-cfa15ba0-7ecc-4d34-9797-13769d8aa69b-c000.json","size":277,"isDir":false,"modificationTime":1555178340334,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///C:/Users/etirf/Desktop/Scala/DFH/checkpoints/part-00002-d2017324-24fd-4bc0-8dcf-edc797a356ba-c000.json","size":273,"isDir":false,"modificationTime":1555178340350,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///C:/Users/etirf/Desktop/Scala/DFH/checkpoints/part-00003-408928f1-baa9-4212-a560-133eedf8420a-c000.json","size":270,"isDir":false,"modificationTime":1555178340331,"blockReplication":1,"blockSize":33554432,"action":"add"}
