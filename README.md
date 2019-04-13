@@ -14,7 +14,7 @@ To do so, we had to implement something to check the drones status, battery and 
 - zkserver
 - ./bin/windows/kafka-server-start.bat ./config/server.properties
 
-2) Create topics
+2) In another cmd, start to create the different topics
 - ./bin/windows/kafka-topics.bat --create --bootstrap-server localhost:9092 --replication-factor 1 --partitions 5 --topic Drones-topic
 - ./bin/windows/kafka-topics.bat --create --bootstrap-server localhost:9092 --replication-factor 1 --partitions 5 --topic drones-filtered
 
