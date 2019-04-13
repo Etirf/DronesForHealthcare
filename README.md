@@ -16,13 +16,13 @@ Project
 - ./bin/windows/kafka-topics.bat --create --bootstrap-server localhost:9092 --replication-factor 1 --partitions 5 --topic drones-filtered
 
 3) Start order
-  a) To produce and consume
+a) To produce and consume
 - producer
 - alertStream
 - consumer
 - sparkAnalysis
 
-  b) For the analysis
+b) For the analysis
 
 - Après sparkQueries
 
