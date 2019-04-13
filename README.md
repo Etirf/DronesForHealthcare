@@ -4,10 +4,11 @@ Functional data programming
 This project illustrates an architecture based on Kafka & Spark in Scala to create and deliver health products using drones.
 To do so, we had to implement something to check the drones status, battery and to be able to have statistics in order to know what to improve and to be able to reflect on our data:
 
-- Is the version of the drone correlated with its status ?
-- How many drones are between x and y % of battery ?
+- Is the version of the drone correlated with its status?
+- How many drones are between x and y % of battery?
 
 and so on..
+
 We can of course create more queries that are more specific if desired.
 
 Group project by: 
