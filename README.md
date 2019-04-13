@@ -1,7 +1,7 @@
 # DronesForHealthcare
 Functional data programming
 
-DFH - Drones for Healthcare
+## DFH - Drones for Healthcare
 
 This project illustrates an architecture based on Kafka & Spark in Scala to create and deliver health products using drones.
 To do so, we had to implement something to check the drones status, battery and to be able to have statistics in order to know what to improve and to be able to reflect on our data.
@@ -10,7 +10,7 @@ To do so, we had to implement something to check the drones status, battery and 
 - UZAN Jérémie
 - LUBRANO DI SBARAGLIONE Etienne
 
-Project
+### Project
 
 1) Open 2 cmd and type:
 - zkserver
@@ -41,7 +41,7 @@ We have Drone class that contains different information about the drone (Drone.s
 - sparkQueries does all the queries on the drones and show the statistics
 
 
-Notes aside -
+### Notes aside -
 1) Check the sbt file to check the validity of the dependencies
 2) You can change the different paths used if there is an access issue.
 3) This project was developped under windows 10 OS
@@ -49,9 +49,9 @@ Notes aside -
 
 
 
-## DEBUG
+# DEBUG
 - ./bin/windows/kafka-topics.bat --delete --bootstrap-server localhost:9092 --topic Drones-topic
 - ./bin/windows/kafka-topics.bat --alter --bootstrap-server localhost:9092 --topic drones-filtered --partitions 5
 
-## INFO
+# INFO
 - ./bin/windows/kafka-topics.bat --describe --bootstrap-server localhost:9092
