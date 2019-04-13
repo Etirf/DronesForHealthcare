@@ -8,8 +8,9 @@ To do so, we had to implement something to check the drones status, battery and 
 - How many drones are between x and y % of battery ?
 
 and so on..
-We can of course create more queries that are more specific if desired
+We can of course create more queries that are more specific if desired.
 
+Group project by: 
 - FONTAINE Louis
 - UZAN Jérémie
 - LUBRANO DI SBARAGLIONE Etienne
