@@ -11,7 +11,7 @@ and so on..
 
 We can of course create more queries that are more specific if desired.
 
-Group project by: 
+Group project: 
 - FONTAINE Louis
 - UZAN Jérémie
 - LUBRANO DI SBARAGLIONE Etienne
@@ -47,7 +47,7 @@ Group project by:
 - sparkQueries does all the queries on the drones and show the statistics
 
 
-## Notes aside -
+## Notes -
 1) Check the sbt file to check the validity of the dependencies
 2) You can change the different paths used if there is an access issue.
 3) This project was developped under windows 10 OS
