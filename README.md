@@ -38,7 +38,7 @@ Group project by:
 
 4) Structure and how the project works
 
-We have Drone class that contains different information about the drone (Drone.scala)
+  We have the Drone class that contains different information about the drone (Drone.scala)
 
 - "producer" produces drones
 - They are consumed by "alertStream" (KafkaStream) and they produce drones in the filtered-drones topic (contains drones that are low on battery or that are offline)
